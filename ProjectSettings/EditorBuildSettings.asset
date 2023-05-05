@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/makelava.unity
+    guid: 9b271e63394819a4ab0767b1eec3aba9
   m_configObjects: {}
